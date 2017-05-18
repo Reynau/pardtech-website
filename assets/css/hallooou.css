@@ -582,7 +582,7 @@ blockquote span{
 }
 
 #parallax-slide{
-    background: url(../images/cover-three.jpg) 50% 0 no-repeat;
+    background: url(../images/cover-three.jpeg) 50% 0 no-repeat;
     -webkit-background-size: cover;
        -moz-background-size: cover;
             background-size: cover;
